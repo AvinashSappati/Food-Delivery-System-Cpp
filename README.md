@@ -7,27 +7,33 @@ Designed with a modular, multi-tier architecture, this project demonstrates clea
 ## Screenshots
 
 ### Main Menu
-![Main Menu](assets/menu.png)
+![Main Menu](assets/menu.png
+
 *The primary entry point for the FoodExpress system.*
 
 ### Customer Portal
 ![Customer Portal](assets/customer_portal.png)
+
 *Clean, interactive command-line UI for customer navigation and wallet management.*
 
 ### Place New Order
 ![Place New Order](assets/place_new_order.png)
+
 *Dynamic receipt generation calculating GST, delivery fees, and applying promo codes.*
 
 ### Track Your Order
 ![Track Your Order](assets/track_your_order.png)
+
 *Real-time status updates showing the progression from pending to delivered.*
 
 ### Admin Panel
 ![Admin Panel](assets/admin_panel.png)
+
 *Secure backend for managing orders, toggling menu availability, and tracking riders.*
 
 ### Generate Business Report
 ![Generate Business Report](assets/generate_business_report.png)
+
 *Automated export of comprehensive sales summaries and customer satisfaction metrics.*
 
 ---
